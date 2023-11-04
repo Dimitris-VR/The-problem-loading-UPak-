@@ -1,0 +1,41 @@
+set Items := Item0 Item1 Item2 Item3 Item4 Item5 Item6  Item7 Item8 Item9 ;
+set Trucks := Truck0 Truck1 ;
+
+param T:= 2;
+param Number_of_Items:= 10;
+
+param Capacity:= 
+Truck0 36
+Truck1 36
+;
+
+param Price:=
+Item0 120
+Item1 93
+Item2 70 
+Item3 85 
+Item4 125
+Item5 104
+Item6 98 
+Item7 130
+Item8 140
+Item9 65
+;
+
+param Size:=
+Item0 5
+Item1 11
+Item2 22 
+Item3 15 
+Item4 7
+Item5 9
+Item6 18 
+Item7 14
+Item8 10
+Item9 12
+;
+
+
+
+
+
